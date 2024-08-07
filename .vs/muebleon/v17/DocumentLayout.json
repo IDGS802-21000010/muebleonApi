@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\desarrolloWebIntegral\\muebleon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{962ECE55-BE53-4B36-9FB7-19512F57C24F}|muebleon\\muebleon.csproj|d:\\desarrollowebintegral\\muebleon\\muebleon\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962ECE55-BE53-4B36-9FB7-19512F57C24F}|muebleon\\muebleon.csproj|solutionrelative:muebleon\\dtos\\registrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{962ECE55-BE53-4B36-9FB7-19512F57C24F}|muebleon\\muebleon.csproj|d:\\desarrollowebintegral\\muebleon\\muebleon\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{962ECE55-BE53-4B36-9FB7-19512F57C24F}|muebleon\\muebleon.csproj|solutionrelative:muebleon\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "RegistroDto.cs",
+              "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\DTOs\\RegistroDto.cs",
+              "RelativeDocumentMoniker": "muebleon\\DTOs\\RegistroDto.cs",
+              "ToolTip": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\DTOs\\RegistroDto.cs",
+              "RelativeToolTip": "muebleon\\DTOs\\RegistroDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:43:56.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "muebleon\\Properties\\launchSettings.json",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\appsettings.json",
               "RelativeDocumentMoniker": "muebleon\\appsettings.json",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\Program.cs",
               "RelativeDocumentMoniker": "muebleon\\Program.cs",
@@ -74,12 +91,11 @@
               "RelativeToolTip": "muebleon\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T02:15:19.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T02:15:19.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProveedorController.cs",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\Controllers\\ProveedorController.cs",
               "RelativeDocumentMoniker": "muebleon\\Controllers\\ProveedorController.cs",
@@ -91,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ProductoController.cs",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\Controllers\\ProductoController.cs",
               "RelativeDocumentMoniker": "muebleon\\Controllers\\ProductoController.cs",
@@ -103,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\desarrolloWebIntegral\\muebleon\\muebleon\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "muebleon\\Controllers\\LoginController.cs",
